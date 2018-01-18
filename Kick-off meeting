@@ -1,0 +1,28 @@
+Note
+  title 
+  options(button) //горе в дясно
+  expand
+  delete
+	colors
+	personalization + add personal image 
+  content
+	read more
+  time stamp//долу в дясно
+  квадратна/ обла бележка check box ???
+Navigation( fixed)
+  Logo
+  Buttons:
+    add note (can be floating, transperant, fixed), долу в дясно
+  Show all notes
+            Options
+	Buttons:
+      change background 
+	    fixed colors: black & white
+	    edit 
+      on note click //check box
+      reset// this button ???
+Categories
+  “TO DO”
+  “WORK”
+  “IDEAS”
+Search???
